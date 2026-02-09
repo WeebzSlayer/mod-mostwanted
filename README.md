@@ -1,7 +1,7 @@
 # 🏹 𝐦𝐨𝐝-𝐦𝐨𝐬𝐭𝐰𝐚𝐧𝐭𝐞𝐝 (𝐁𝐨𝐮𝐧𝐭𝐲 𝐇𝐮𝐧𝐭𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦)
 
 [![AzerothCore](https://img.shields.io/badge/AzerothCore-Latest-blue.svg)](https://www.azerothcore.org/)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![License: GNU AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-red.svg)](https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE)
 [![Type](https://img.shields.io/badge/Type-PvP%20%2F%20PvE-orange.svg)]()
 
 ---
