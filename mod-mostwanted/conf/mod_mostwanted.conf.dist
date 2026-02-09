@@ -1,0 +1,27 @@
+[worldserver]
+########################################
+# Most Wanted Module Configuration
+########################################
+
+# Enable the Most Wanted system
+MostWanted.Enable = 1
+
+# Minimum kills required within the time window to become Most Wanted
+MostWanted.MinKills = 10
+
+# Time window (in minutes) to track kills
+MostWanted.TimeWindow = 30
+
+# Rewards for killing a Most Wanted player
+MostWanted.RewardGold = 10000000
+# Item ID for end-game equipment reward (e.g., 49426 for Frost Emblems)
+MostWanted.RewardItemId = 49426
+MostWanted.RewardItemCount = 5
+
+# Stat Modifiers (Percentages)
+MostWanted.DamageIncrease = 10
+MostWanted.HealthReduction = 5
+MostWanted.DefenseReduction = 5
+
+# NPC ID for the Most Wanted list (you can spawn this NPC manually)
+MostWanted.NPCId = 99000
