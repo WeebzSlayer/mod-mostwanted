@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center">*A dynamic **Most Wanted / Bounty Hunter System** for AzerothCore. This module tracks player activity and identifies the most dangerous player in each faction, turning them into a high-value target for everyone else!*</p>
+*<p align="center">A dynamic **Most Wanted / Bounty Hunter System** for AzerothCore. This module tracks player activity and identifies the most dangerous player in each faction, turning them into a high-value target for everyone else!</p>*
 
 ---
 
