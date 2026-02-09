@@ -6,11 +6,11 @@
 
 ---
 
-A dynamic **Most Wanted / Bounty Hunter System** for AzerothCore. This module tracks player activity and identifies the most dangerous player in each faction, turning them into a high-value target for everyone else!
+<p align="center">*A dynamic **Most Wanted / Bounty Hunter System** for AzerothCore. This module tracks player activity and identifies the most dangerous player in each faction, turning them into a high-value target for everyone else!*</p>
 
 ---
 
-## 🌟 Features
+### 🌟 Features
 
 *   ⚔️ **Dynamic Tracking:** Automatically tracks Player and NPC kills within a configurable time window.
 *   🚩 **Faction Leaders:** Maintains one "Most Wanted" criminal for the **Horde** and one for the **Alliance**.
